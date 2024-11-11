@@ -144,6 +144,7 @@ const RoundedLineGraph = () => {
               width: 2
             },
             colors: ["#1b263b"],
+            // theme:{mode:"dark"},// add dark background
             dataLabels: {
               enabled: false
             },
